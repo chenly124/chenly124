@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chenly124
 - 👀 I’m interested in Python/C++/MATLAB
 - 🌱 I’m currently learning Python
-- 📫 You can reach me through chenly124@outlook.com
+- 📫 You can reach me through lc5464@nyu.edu
 
 <!---
 chenly124/chenly124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
